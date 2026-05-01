@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-steel-coils",
+      "description": "Industrial steel coils in warehouse",
+      "imageUrl": "/images/trading-scarp.jpg",
+      "imageHint": "steel coils"
+    },
+    {
+      "id": "hero-logistics",
+      "description": "Cargo ship at industrial port",
+      "imageUrl": "/images/strategic-metal.jpg",
+      "imageHint": "cargo ship"
+    },
+    {
+      "id": "hero-scrap-metal",
+      "description": "Industrial scrap metal yard operations",
+      "imageUrl": "/images/metal-scarp.jpg",
+      "imageHint": "scrap metal"
+    },
+    {
+      "id": "product-steel-coils",
+      "description": "High-grade industrial steel coils",
+      "imageUrl": "/images/steel.jpg",
+      "imageHint": "steel coils"
+    },
+    {
+      "id": "product-steel-rods",
+      "description": "Structural metal rods and rebar",
+      "imageUrl": "/images/steel-rods.jpg",
+      "imageHint": "metal rods"
+    },
+    {
+      "id": "product-aluminum",
+      "description": "Precision aluminum sheets and products",
+      "imageUrl": "/images/aluminum.jpg",
+      "imageHint": "aluminum sheets"
+    },
+    {
+      "id": "product-copper",
+      "description": "High-purity copper wires and coils",
+      "imageUrl": "/images/copper.jpg",
+      "imageHint": "copper wire"
+    },
+    {
+      "id": "product-scrap",
+      "description": "Industrial scrap metal and recycling materials",
+      "imageUrl": "/images/scarp-metal.jpg",
+      "imageHint": "scrap metal"
+    },
+    {
+      "id": "port-logistics",
+      "description": "Global port logistics and shipping terminal",
+      "imageUrl": "/images/specialty.jpg",
+      "imageHint": "port logistics"
+    }
+  ]
+}
